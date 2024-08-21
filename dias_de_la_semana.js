@@ -1,3 +1,15 @@
+/**
+ * En la línea siguiente, defina una nueva variable, nómbrela day, y ajuste su valor a "Sunday".
+
+Comience a codificar una sentencia switch, pasando la variable day como la expresión a evaluar.
+
+Dentro de switch, añada casos para cada día de la semana, empezando por 'lunes', y terminando por 'domingo'. Asegúrese de utilizar valores de cadena para los días. Dentro de cada caso, por ahora, sólo añada un console.log('Haga algo'), y añada un break; en la línea inferior.
+
+En la parte inferior de la sentencia switch, añada el caso por defecto y añada un console.log('No existe tal día').
+
+Por último, actualice las llamadas console.log para cada caso, en función de la actividad que tenga en cada uno de los días.
+ */
+
 var day = "Sunday";
 
 switch (day) { 
